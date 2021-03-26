@@ -24,10 +24,15 @@
  <h2>Screenshots</h2>
  
  <p align="center">
+ <p>Start</p>
  <img src="Assets/snaps/Start.png">
   <br>
+  <br>
+  <p>Play</p>
  <img src="Assets/snaps/Play.png">
   <br>
+  <br>
+  <p>High Score</p>
  <img src="Assets/snaps/HighScore.png">
  
  </p>
