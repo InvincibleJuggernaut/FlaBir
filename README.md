@@ -23,19 +23,23 @@
  
  <h2>Screenshots</h2>
  
+<p>Start</p>
  <p align="center">
- <h3>Start</h3>
  <img src="Assets/snaps/Start.png">
+  </p>
   <br>
   <br>
-  <h3>Play</h3>
+
+<p>Play</p>
+ <p align="center">
  <img src="Assets/snaps/Play.png">
+  </p>
   <br>
   <br>
-  <h3>High Score</h3>
+<p>High Score</p>
+  <p align="center">
  <img src="Assets/snaps/HighScore.png">
- 
- </p>
+  </p>
 
 
 
