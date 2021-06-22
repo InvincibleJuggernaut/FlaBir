@@ -21,6 +21,14 @@
   ```
   </p>
  
+ <h2>Usage</h2>
+ 
+ <p> Run the game using :
+  
+  ```
+  python3 game.py
+  ```
+ 
  <h2>Screenshots</h2>
  
 <p>Start</p>
