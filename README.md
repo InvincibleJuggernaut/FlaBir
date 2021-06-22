@@ -41,5 +41,5 @@
  <img src="Assets/snaps/HighScore.png">
   </p>
 
-
-
+<h2>License</h2>
+<a href="LICENSE">MIT License</a>
